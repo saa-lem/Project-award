@@ -14,7 +14,7 @@ class Project(models.Model):
     created_on = models.DateTimeField(auto_now_add=True)
     updated_on = models.DateTimeField(auto_now=True)
     project_link = models.URLField(unique=True, blank = True, null =True)
-    profile = models.ForeignKey(Profile, on_delete=models.CASCADE)
+    profile = models.ForeignKey(Profile, on_delete=models.CASCADE, null =True)
 
     class Meta:
         ordering = ['-created_on']
