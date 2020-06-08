@@ -50,7 +50,7 @@ This project allows users to post their projects for other users to rate accordi
 
     python manage.py test 
 
--Open the application on your browser 127.0.0.1:8000.
+- Open the application on your browser 127.0.0.1:8000.
 
 # Technology used
 
@@ -60,7 +60,7 @@ This project allows users to post their projects for other users to rate accordi
 
 # Known Bugs
 
-    There are no known bugs currently but pull requests are allowed incase you spot a bug
+- There are no known bugs currently but pull requests are allowed incase you spot a bug
 
 # Contact Information
 
