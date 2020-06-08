@@ -6,12 +6,12 @@ This project allows users to post their projects for other users to rate accordi
 
  # User Story
 
-    A user can view posted projects and their details.
-    A user can post a project to be rated/reviewed.
-    A user can rate/ review other users' projects.
-    Search for projects.
-    View projects overall score.
-    A user can view their profile page.
+  -A user can view posted projects and their details.
+  -A user can post a project to be rated/reviewed.
+  -A user can rate/ review other users' projects.
+  -Search for projects.
+  -View projects overall score.
+  -A user can view their profile page.
 
 ## Setup and Installation
 
